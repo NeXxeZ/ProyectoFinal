@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ICSM</string>
+    <string name="settings">Settings</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="cam1">URL Camera 1</string>
+    <string name="camAmb">URL Ambiental Camera</string>
+    <string name="port">Port</string>
+    <string name="domain">SAMBA Domain</string>
+    <string name="rtspSample">rtsp://&#8230;</string>
+    <string name="plate">Plate: </string>
+    <string name="hour">Hour: </string>
+    <string name="direction">Direction: </string>
+    <string name="atention">ATENTION!</string>
+    <string name="atention_msg">This action will erase all downloaded data by the application.</string>
+    <string name="to_data_deleted">Application data cleared.</string>
+    <string name="to_no_data">No data to delete.</string>
+    <string name="to_try_in_seconds">The resource is not available, try again in a few seconds.</string>
+</resources>

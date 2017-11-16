@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ICSM</string>
+    <string name="settings">Configuración</string>
+    <string name="clear_data">Limpiar Datos</string>
+    <string name="cam1">URL Camara 1</string>
+    <string name="camAmb">URL Camara Ambiental</string>
+    <string name="port">Puerto</string>
+    <string name="domain">Dominio SAMBA</string>
+    <string name="rtspSample">rtsp://&#8230;</string>
+    <string name="plate">Matricula: </string>
+    <string name="hour">Hora: </string>
+    <string name="direction">Dirección: </string>
+    <string name="atention">ATENCIÓN!</string>
+    <string name="atention_msg">Esta acción borrará todos los datos descargados por la aplicación.</string>
+    <string name="to_data_deleted">Datos de la aplicación eliminados.</string>
+    <string name="to_no_data">No existen datos a eliminar.</string>
+    <string name="to_try_in_seconds">El recurso no está disponible, vuelve a intentar en unos segundos.</string>
+</resources>
