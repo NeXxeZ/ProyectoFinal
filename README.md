@@ -1,2 +1,3 @@
 # ProyectoFinal
-![Wireframe1](/Media/WireframesProyecto2.png)
+![Wireframe1](/Media/WireframesProyecto1.png)
+![Wireframe2](/Media/wireframeSProyecto2.png)
