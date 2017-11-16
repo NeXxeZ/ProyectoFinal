@@ -1,2 +1,2 @@
 # ProyectoFinal
-![](ProyectoFinal/Media/Wireframes Proyecto2.png)
+![Wireframe1](/Media/Wireframes Proyecto2.png)
