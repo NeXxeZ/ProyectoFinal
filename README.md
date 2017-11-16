@@ -15,4 +15,4 @@ Y algunas librerías externas como:
 - [JCIFS](https://jcifs.samba.org)
 - [VXG Media SDK for Android](https://github.com/VideoExpertsGroup/VXG.Media.SDK.Android)
 
-![Wireframe1](/Media/WireframesProyecto1.png =250px)
+![Wireframe1](/Media/WireframesProyecto1.png =100x)
